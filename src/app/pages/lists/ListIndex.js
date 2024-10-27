@@ -31,8 +31,8 @@ function ListIndex() {
   }
 
   const deleteItem =(key)=> {
-     const list = [...list];
-     const updateList = list.filter((item) => item.id !== key);
+     const listArr = [...list];
+     const updateList = listArr.filter((item) => item.id !== key);
 
      setList(updateList);
   }
