@@ -1,6 +1,9 @@
 function Footer() {
   return (
-    'Footer'
+    <footer
+      className="text-center">
+        Made by jkb
+    </footer>
   );
 }
 
