@@ -1,8 +1,8 @@
 function Footer() {
   return (
     <footer
-      className="text-center">
-        Made by jkb
+      className="text-center p-4">
+        Made by JKB
     </footer>
   );
 }
