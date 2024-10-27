@@ -1,3 +1,5 @@
+@import '~bootstrap/scss/bootstrap';
+
 .App {
   text-align: center;
 }
@@ -35,4 +37,13 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.main{
+  min-height: calc(100vh - 130px);
+  min-height: calc(100dvh - 130px);
+}
+
+footer{
+  border-top: 1px solid gray;
 }
