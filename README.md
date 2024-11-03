@@ -2,9 +2,9 @@
 ---
 
 ## Packages
-- [[React]] - 18.3.1
-- [[React -Bootstrap]] - 2.10.5
-  - [[Bootstrap]] - 5.3.3
+- React - 18.3.1
+- React -Bootstrap - 2.10.5
+  - Bootstrap - 5.3.3
 
 ## Summary
 - This package is used as a learning tool to deploy a React App.
